@@ -1,0 +1,52 @@
+{
+  "routes": [
+    {
+      "name": "Test #1",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #2",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #3",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #4",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #1",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #2",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #3",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    },
+    {
+      "name": "Test #4",
+      "description": "Lorem ipsum costma costma",
+      "url": "https://www.youtube.com/",
+      "hexColor": "#FFF48A"
+    }
+  ]
+}

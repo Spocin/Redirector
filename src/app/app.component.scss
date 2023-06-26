@@ -1,0 +1,25 @@
+:host {
+  display: flex;
+  flex-flow: row wrap;
+  flex-basis: 25%;
+
+  padding: 30px;
+
+  & > * {
+    flex: 1 1 auto;
+  }
+
+  gap: 2rem;
+
+  mat-card {
+    cursor: pointer;
+  }
+
+  mat-card-content {
+    padding: 1rem;
+  }
+
+  mat-card-footer {
+    padding: 1rem;
+  }
+}
