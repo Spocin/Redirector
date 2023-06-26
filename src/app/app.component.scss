@@ -15,11 +15,16 @@
     cursor: pointer;
   }
 
+  mat-card-header {
+    font-size: large;
+  }
+
   mat-card-content {
     padding: 1rem;
   }
 
   mat-card-footer {
     padding: 1rem;
+    font-style: italic;
   }
 }

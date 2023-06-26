@@ -2,5 +2,6 @@ export interface IRoute {
   name: string;
   description: string;
   url: string;
-  hexColor: string;
+  backgroundColorHex: string;
+  fontColorHex: string
 }

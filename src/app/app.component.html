@@ -1,6 +1,6 @@
 <ng-container *ngIf="getRoutes$ | async as routes; else error">
   <mat-card *ngFor="let route of routes"
-            [ngStyle]="{ 'background-color': route.hexColor }"
+            [ngStyle]="{'background-color': route.backgroundColorHex, 'color': route.fontColorHex }"
             (click)="navigateTo(route.url)">
     <mat-card-header>{{route.name}}</mat-card-header>
     <mat-card-content>{{route.description}}</mat-card-content>
